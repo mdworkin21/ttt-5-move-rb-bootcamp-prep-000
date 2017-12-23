@@ -10,5 +10,3 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 
 input = gets.strip
-
-index = gets.strip
